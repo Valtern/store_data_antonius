@@ -12,19 +12,19 @@ Lakukan commit hasil jawaban Soal 2 dengan pesan "W13: Jawaban Soal 3"
 
 1. 
 
-![alt text](image-1.png)
+![alt text](pic/image-1.png)
 
-![alt text](image.png)
+![alt text](pic/image.png)
 
 2. 
 
-![alt text](image-2.png)
+![alt text](pic/image-2.png)
 
 3. 
 
-![alt text](image-4.png)
+![alt text](pic/image-4.png)
 
-![alt text](image-5.png)
+![alt text](pic/image-5.png)
 
 # Practicum 2
 
@@ -38,9 +38,9 @@ Lalu lakukan commit dengan pesan "W13: Jawaban Soal 4".
 
 Can display the error:
 
-![alt text](image-7.png)
+![alt text](pic/image-7.png)
 
-![alt text](image-8.png)
+![alt text](pic/image-8.png)
 
 
 
@@ -54,7 +54,7 @@ Lalu lakukan commit dengan pesan "W13: Jawaban Soal 5".
 
 1. 
 
-![alt text](image-9.png)
+![alt text](pic/image-9.png)
 
 Why is this safer and more maintainable?
 
@@ -71,7 +71,7 @@ Lalu lakukan commit dengan pesan "W13: Jawaban Soal 6".
 
 1. 
 
-![alt text](6991e1c300f1c94618dba93811367598.gif)
+![alt text](pic/6991e1c300f1c94618dba93811367598.gif)
 
 # Practicum 5
 
@@ -82,7 +82,7 @@ Lalu lakukan commit dengan pesan "W13: Jawaban Soal 7".
 
 1. 
 
-![alt text](image-10.png)
+![alt text](pic/image-10.png)
 
 # Practicum 6
 
@@ -98,7 +98,7 @@ The writeFile method is an asynchronous function that attempts to access the piz
 
 The readFile method works in reverse. It asynchronously opens the same pizzas.txt file and extracts all the text inside it using readAsString(). Once the data is retrieved, setState is called to update the fileText variable with that content, which triggers the Flutter interface to rebuild and display the pizza names on the screen. Both methods use a try-catch block to ensure that if the file system is inaccessible or the file doesn't exist, the app catches the error gracefully and returns false instead of crashing.
 
-![alt text](a49d8c9abded4bb77a53f9422581ea54.gif)
+![alt text](pic/a49d8c9abded4bb77a53f9422581ea54.gif)
 
 
 
@@ -112,6 +112,61 @@ Lalu lakukan commit dengan pesan "W13: Jawaban Soal 9".
 
 1. 
 
-![alt text](0832c7ddcb5d60b0861fe436f3167d1d.gif)
+![alt text](pic/0832c7ddcb5d60b0861fe436f3167d1d.gif)
 
 
+
+# NEW JOBSHEET 14
+
+# Practicum 1
+
+1. Tambahkan nama panggilan Anda pada title app sebagai identitas hasil pekerjaan Anda.
+Gantilah warna tema aplikasi sesuai kesukaan Anda.
+Capture hasil aplikasi Anda, lalu masukkan ke laporan di README dan lakukan commit hasil jawaban Soal 1 dengan pesan "W14: Jawaban Soal 1"
+
+# Answer for practicum 1
+
+1. 
+
+![alt text](pic/image-11.png)
+
+
+# Practicum 2
+
+1. Tambahkan field baru dalam JSON maupun POST ke Wiremock!
+Capture hasil aplikasi Anda berupa GIF di README dan lakukan commit hasil jawaban Soal 2 dengan pesan "W14: Jawaban Soal 2"
+
+# Answer for practicum 2
+
+1.  
+
+![alt text](pic/image-12.png)
+
+![alt text](pic/1e6196c377850ac461b9642350fbef00.gif)
+
+
+
+# Practicum 3
+
+1. Ubah salah satu data dengan Nama dan NIM Anda, lalu perhatikan hasilnya di Wiremock.
+Capture hasil aplikasi Anda berupa GIF di README dan lakukan commit hasil jawaban Soal 3 dengan pesan "W14: Jawaban Soal 3"
+
+# Answer for practicum 3
+
+1. 
+
+![alt text](pic/170d83a47f016e0ac5e7a0f207c715cf.gif)
+
+![alt text](pic/image-13.png)
+
+# Practicum 4
+
+1. Capture hasil aplikasi Anda berupa GIF di README dan lakukan commit hasil jawaban Soal 4 dengan pesan "W14: Jawaban Soal 4"
+
+# Answer for Practicum 4
+
+1. 
+
+![alt text](pic/a83a150bb3bd44eb09474a770a850fd7.gif)
+
+![alt text](pic/image-14.png)
